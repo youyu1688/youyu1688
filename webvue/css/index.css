@@ -1,0 +1,49 @@
+body{
+    scrollbar-face-color: #749AEC;
+    scrollbar-highlight-color: #749AEC;
+    scrollbar-3dlight-color: #749AEC;
+    scrollbar-arrow-color: #F4F6FC;
+    scrollbar-track-color: #B0C7F4;
+    scrollbar-darkshadow-color: #749AEC;
+}
+
+body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+html {
+    font-size: 10px;
+    font-family: 'Opne Sans', sans-serif;
+}
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #00539F;
+    text-shadow: 3px 3px 1px black;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+td{
+    height: 30px;
+    display: table-cell;
+    vertical-align: inherit;
+}
+table {
+    border-collapse: separate;
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    border-spacing: 2px;
+    font-variant: normal;
+}
